@@ -1,4 +1,6 @@
-Trabajo Práctico Obligatorio realizado en Programación III - UADE
+Trabajo Práctico Obligatorio
+
+Programación III - UADE
 
 Enunciado del problema
 
@@ -14,35 +16,64 @@ o	m como la cantidad de minas en el tablero.
 •	En  el  resto  de  las  líneas  la  matriz  de  tamaño  NxM  con  un  número  por  casilla  que indique la cantidad de minas adyacentes o una X si en esa casilla hay una mina (cada número o X debe estar separado por un espacio).
 
 Ejemplos de archivos:
+
+
 Primer archivo: Buscaminas de 8x8 con 10 minas
+
 8,8,10
+
 1 X 2 X 1 1 1 1
+
 1 1 2 1 1 1 X 2
+
 0 0 0 0 0 2 3 X
+
 0 0 0 1 1 3 X 3
+
 0 1 1 2 X 3 X 2
+
 0 1 X 2 2 4 3 2
+
 0 1 1 1 1 X X 1
+
 0 0 0 0 1 2 2 1
 
 
+
 Segundo archivo: Buscaminas de 16x16 con 40 minas
+
 16,16,40
+
 X 1 0 0 0 0 0 0 0 0 1 2 2 1 0 0
+
 1 1 1 1 1 0 0 1 1 1 1 X X 1 0 0
+
 0 0 1 X 1 0 0 1 X 1 1 2 2 1 1 1
+
 1 1 2 1 1 0 0 2 2 2 0 0 0 0 1 X
+
 2 X 2 0 0 0 0 1 X 1 0 0 0 0 1 1
+
 2 X 3 1 0 0 0 2 2 2 0 0 0 0 0 0
+
 2 3 X 1 0 1 1 3 X 2 0 0 0 1 1 1
+
 X 3 2 2 0 1 X 3 X 2 0 0 0 1 X 1
+
 1 2 X 1 0 1 1 2 1 2 1 2 1 2 2 2
+
 1 2 3 2 1 0 0 0 0 1 X 2 X 2 2 X
+
 2 X 3 X 2 1 0 0 1 2 2 2 2 X 3 2
+
 2 X 4 3 X 3 3 2 3 X 2 1 2 3 X 1
+
 1 1 3 X 4 X X X 5 X 2 2 X 3 1 1
+
 1 1 3 X 3 3 X X X 2 1 2 X 2 1 1
+
 1 X 3 2 1 1 2 3 2 1 0 1 1 1 1 X
+
 1 2 X 1 0 0 0 0 0 0 0 0 0 0 1 1
 
 
